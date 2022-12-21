@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interact</string>
+    <string name="facebook_app_id">424670902845338</string>
+    <string name="fb_login_protocol_scheme">fb424670902845338</string>
+    <string name="facebook_client_token">e4cbe24509c0e034f68e1cd12c69b206</string>
+
+
+</resources>

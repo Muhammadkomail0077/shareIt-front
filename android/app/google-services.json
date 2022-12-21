@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239188409090",
+    "project_id": "interact-9674c",
+    "storage_bucket": "interact-9674c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239188409090:android:72ff2ffe5624a22b15a01b",
+        "android_client_info": {
+          "package_name": "com.interact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239188409090-r51gsvbh0suh8i5abjgssbkfrdo0ak39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interact",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "239188409090-aodjm55hnt4mlrqg3tjs9qr3a07pnnsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GfxRFcR-u9V2F26QYsmwqALcvNRuTEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239188409090-aodjm55hnt4mlrqg3tjs9qr3a07pnnsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
